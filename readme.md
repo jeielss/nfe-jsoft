@@ -1,5 +1,5 @@
 # Emissor de Notas Fiscal para Mercado Livre
-Essa solução é capaz de obter dados de venda da plataforma Mercado Livre, emitir as notas fiscais para cada uma delas e envia-las de volta a plataforma. O diferencial dessa solução dos softwares já existentes, é que ela é capaz de preencher parâmetros (no momento apenas o NCM, mas expansível para quaisquer) da nota fiscal apenas por palavras no título do produto na plataforma, não sendo necessário a criação de cadastro para cada um dos itens vendidos.
+Essa solução é capaz de obter dados de venda da plataforma Mercado Livre, emitir as notas fiscais para cada uma delas e envia-las de volta a plataforma. O diferencial dessa solução dos softwares já existentes, é que ela é capaz de preencher parâmetros da nota fiscal apenas por palavras-chave no título do produto na plataforma, não sendo necessário a criação de cadastro para cada um dos itens vendidos.
 
 ## Configuração
 
