@@ -4,7 +4,7 @@ Essa solução é capaz de obter dados de venda da plataforma Mercado Livre, emi
 ## Configuração
 
 Para configurar o software são necessários os seguintes passos:
-- Obter o certificado digital para gerar notas ficais
+- Obter o certificado digital para gerar notas fiscais
 - Cadastrar o app e obter as credenciais na plataforma do Mercado Livre
 - Autorizar o app para obter acesso a conta do Mercado Livre
 - Inserir o token no arquivo data/tokensExample e renomea-lo para data/tokens
